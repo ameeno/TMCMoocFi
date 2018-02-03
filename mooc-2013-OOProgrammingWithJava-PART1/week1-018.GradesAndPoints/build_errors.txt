@@ -1,0 +1,6 @@
+
+BUILD FAILED
+C:\Users\Ameeno\Documents\Netbeans-TMC\OOProgrammingWJava(Mooc.fi)P1\mooc-2013-OOProgrammingWithJava-PART1\week1-018.GradesAndPoints\nbproject\build-impl.xml:603: The following error occurred while executing this line:
+C:\Users\Ameeno\Documents\Netbeans-TMC\OOProgrammingWJava(Mooc.fi)P1\mooc-2013-OOProgrammingWithJava-PART1\week1-018.GradesAndPoints\nbproject\build-impl.xml:245: Compile failed; see the compiler error output for details.
+
+Total time: 9 seconds
