@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2faa235e-5bbf-4e67-840a-5e0c99f2f6cf" name="Default Changelist" comment="" />
+    <list default="true" id="2faa235e-5bbf-4e67-840a-5e0c99f2f6cf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../week3-067.TheVariance/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3-063.SumOfNumbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-063.SumOfNumbers/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3-063.SumOfNumbers/src/SumOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-063.SumOfNumbers/src/SumOfNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3-064.AverageOfNumbers/src/AverageOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-064.AverageOfNumbers/src/AverageOfNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3-065.LengthsOfStrings/src/LengthsOfStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-065.LengthsOfStrings/src/LengthsOfStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3-066.TheGreatest/src/TheGreatest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-066.TheGreatest/src/TheGreatest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3-067.TheVariance/src/Variance.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-067.TheVariance/src/Variance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3-068.MoreThanOnce/src/MoreThanOnce.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-068.MoreThanOnce/src/MoreThanOnce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3-069.Palindrome/src/Palindromi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-069.Palindrome/src/Palindromi.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,9 +23,10 @@
     <session id="-1647053971">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -41,12 +52,12 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ReversingText.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="180">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -83,9 +94,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -102,6 +110,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -136,28 +147,23 @@
       <option name="presentableId" value="Default" />
       <updated>1538825413340</updated>
       <workItem from="1538825415541" duration="382000" />
+      <workItem from="1538834703792" duration="14000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="382000" />
+    <option name="totallyTimeSpent" value="396000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="108" y="31" width="1605" height="998" extended-state="0" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24952015" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25271913" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="TMC Test Results" visible="true" weight="0.32928178" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -165,17 +171,23 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info active="true" anchor="right" id="TMC Project List" visible="true" weight="0.32949457" />
+      <window_info anchor="bottom" id="TMC Test Results" order="7" visible="true" weight="0.32928178" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="SciView" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info active="true" anchor="right" id="TMC Project List" order="10" visible="true" weight="0.32949457" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,8 +199,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/ReversingText.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="180">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>
