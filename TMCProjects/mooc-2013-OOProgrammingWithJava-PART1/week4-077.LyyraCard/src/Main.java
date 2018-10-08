@@ -5,7 +5,29 @@ public class Main {
 
     public static void main(String[] args) {
         // add here code that tests LyraCard. However before doing 77.6 remove the
-        // other code 
+        // other code
 
-    }
-}
+                LyyraCard cardPekka = new LyyraCard(20);
+                LyyraCard cardBrian = new LyyraCard(30);
+
+                // write code here
+        cardPekka.payGourmet();
+        cardBrian.payEconomical();
+        System.out.println("Pekka: "+cardPekka.toString());
+        System.out.println("Brian: "+cardBrian.toString());
+        cardPekka.loadMoney(20);
+        cardBrian.payGourmet();
+
+        System.out.println("Pekka: "+cardPekka.toString());
+        System.out.println("Brian: "+cardBrian.toString());
+        cardPekka.payEconomical();
+        cardPekka.payEconomical();
+
+        cardBrian.loadMoney(50);
+
+        System.out.println("Pekka: "+cardPekka.toString());
+        System.out.println("Brian: "+cardBrian.toString());
+
+            }
+        }
+
