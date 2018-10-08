@@ -9,5 +9,15 @@ public class Main {
 
     public static void printElegantly(int[] array) {
         // Write code here
+        int i = 0;
+        for (int x : array) {
+            System.out.print(x);
+            i++;
+            if (i < array.length) {
+                System.out.print(", ");
+
+            }
+        }
     }
 }
+
