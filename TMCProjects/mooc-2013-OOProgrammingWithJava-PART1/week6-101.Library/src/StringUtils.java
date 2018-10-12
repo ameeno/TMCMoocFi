@@ -5,7 +5,12 @@ public class StringUtils {
         if (word == null || searched == null) {
             return false;
         }
-        if(word.trim().toUpperCase().equals(searched.trim().toUpperCase())){return true;}
-        return false;
+        word = word.trim();
+        searched = searched.trim();
+
+        word = word.toUpperCase();
+        searched = searched.toUpperCase();
+
+        return word.contains(searched);
     }
 }

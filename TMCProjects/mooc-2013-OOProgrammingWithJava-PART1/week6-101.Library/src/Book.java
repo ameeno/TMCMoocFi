@@ -24,6 +24,6 @@ public class Book {
     }
 
     public String toString() {
-        return title()+", "+publisher()+", "+year();
+        return this.title+", "+this.publisher+", "+this.year;
     }
 }

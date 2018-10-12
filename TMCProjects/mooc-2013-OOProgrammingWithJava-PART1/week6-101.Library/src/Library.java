@@ -17,42 +17,27 @@ public class Library {
         }
     }
 
-
     public ArrayList<Book> searchByTitle(String title) {
-        ArrayList<Book> result = new ArrayList<Book>();
-        for (Book x : this.library) {
-            if(
-
-                    StringUtils.included(x.title(), title)) {
-                result.add(x);
-            }
-        }
-
-        return result;
-
+        return searchBook(title, null, -1);
     }
 
     public ArrayList<Book> searchByPublisher(String publisher) {
-        ArrayList<Book> result = new ArrayList<Book>();
-
-
-        for (Book x : this.library) {
-            if(StringUtils.included(x.publisher(), publisher)){
-                result.add(x);
-            }
-        }
-
-        return result;
+        return searchBook(null, publisher, -1);
     }
 
     public ArrayList<Book> searchByYear(int year) {
-        ArrayList<Book> result = new ArrayList<Book>();
-        for (Book x : this.library) {
-            if (x.year() == year) {
-                result.add(x);
-            }
-        }
-        return result;
+        return searchBook(null, null, year);
     }
 
+    // Helper method
+    public ArrayList<Book> searchBook(String title, String publisher, int year) {
+        ArrayList<Book> found = new ArrayList<Book>();
+        for (Book x : this.library) {
+            if (StringUtils.included(x.title(), title)
+                    || StringUtils.included(x.publisher(), publisher)
+                    || x.year() == year)
+                found.add(x);
+        }
+        return found;
+    }
 }
