@@ -13,6 +13,12 @@ public class GuessingGame {
         instructions(lowerLimit, upperLimit);
 
         // write the guessing logic here
+        while(lowerLimit!=upperLimit){
+            int guess=average(lowerLimit,upperLimit);
+        if(isGreaterThan(guess)) {lowerLimit=guess+1;}
+        else{upperLimit=guess;}
+        }
+        System.out.println("The number you're thinking of is "+lowerLimit);
 
     }
 
@@ -27,6 +33,15 @@ public class GuessingGame {
         System.out.println("");
         System.out.println("Next I'll present you a series of questions. Answer them honestly.");
         System.out.println("");
+    }
+    public boolean isGreaterThan(int value){
+        System.out.println("Is your number greater than "+value+" (y/n)");
+        String g = reader.next();
+        return g.contentEquals("y");
+    }
+
+    public int average(int firstNumber, int secondNumber){
+        return (firstNumber+secondNumber)/2;
     }
 
     // a helper method:

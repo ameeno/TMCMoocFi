@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce74d96f-2aae-46f5-b1ed-b5ca062763ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week6-101.Library/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week6-101.Library/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week6-101.Library/build/built-jar.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../week6-101.Library/build/built-jar.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week6-101.Library/build/classes/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week6-101.Library/build/classes/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week6-101.Library/build/classes/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week6-101.Library/build/classes/Library.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week6-101.Library/build/classes/StringUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week6-101.Library/build/classes/StringUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week6-101.Library/out/production/week6-101.Library/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week6-101.Library/out/production/week6-101.Library/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week6-101.Library/out/production/week6-101.Library/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week6-101.Library/out/production/week6-101.Library/Library.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week6-101.Library/out/production/week6-101.Library/StringUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week6-101.Library/out/production/week6-101.Library/StringUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week6-101.Library/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week6-101.Library/src/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week6-101.Library/src/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week6-101.Library/src/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week6-101.Library/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week6-101.Library/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week6-101.Library/src/StringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week6-101.Library/src/StringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week6-103.Birdwatcher/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week6-103.Birdwatcher/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week6-103.Birdwatcher/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,11 +19,15 @@
     <session id="1722591911">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.21" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -47,12 +42,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="278" />
+          <entry key="java" value="904" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="278" />
+          <entry key="JAVA" value="904" />
         </counts>
       </usages-collector>
     </session>
@@ -62,8 +57,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" selection-start-line="36" selection-end-line="45" />
+            <state relative-caret-position="1725">
+              <caret line="115" column="1" lean-forward="true" selection-start-line="115" selection-start-column="1" selection-end-line="115" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,7 +85,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
+    <option name="y" value="23" />
     <option name="width" value="1920" />
     <option name="height" value="1025" />
   </component>
@@ -102,9 +97,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -121,6 +114,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -157,16 +152,21 @@
       <workItem from="1539107466577" duration="1383000" />
       <workItem from="1539247656343" duration="1812000" />
       <workItem from="1539295923448" duration="271000" />
+      <workItem from="1540651582070" duration="551000" />
+      <workItem from="1540652209548" duration="94000" />
+      <workItem from="1540652329931" duration="3184000" />
+      <workItem from="1540667575270" duration="61000" />
+      <workItem from="1540668324887" duration="30000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3466000" />
+    <option name="totallyTimeSpent" value="7386000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1920" height="1025" extended-state="0" />
+    <frame x="0" y="23" width="1920" height="1025" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1256656" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13099042" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -180,7 +180,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="TMC Test Results" order="7" />
+      <window_info anchor="bottom" id="TMC Test Results" order="7" visible="true" weight="0.32939914" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -196,7 +196,7 @@
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info anchor="right" id="TMC Project List" order="10" />
+      <window_info active="true" anchor="right" id="TMC Project List" order="10" visible="true" weight="0.32960597" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,8 +208,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" selection-start-line="36" selection-end-line="45" />
+        <state relative-caret-position="1725">
+          <caret line="115" column="1" lean-forward="true" selection-start-line="115" selection-start-column="1" selection-end-line="115" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
